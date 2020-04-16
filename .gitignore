@@ -1,0 +1,5 @@
+package-lock.json
+# ignore packages installed by npm
+node_modules
+#other files we don't want to check in here,
+# such as .DS_Store (OSX), *.bak, etc.
